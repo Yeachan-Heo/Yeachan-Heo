@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Multi-Agent+System+Architect;Open+Source+Enthusiast;The+Boulder+Never+Stops)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Yeachan-Heo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Yeachan-Heo)
-[![GitHub stars](https://img.shields.io/github/stars/Yeachan-Heo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Yeachan-Heo)
+[![GitHub User's stars](https://img.shields.io/github/stars/Yeachan-Heo?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/Yeachan-Heo)
 [![Profile Views](https://komarev.com/ghpvc/?username=Yeachan-Heo&style=for-the-badge&color=blueviolet)](https://github.com/Yeachan-Heo)
 
 </div>
@@ -34,28 +34,16 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Yeachan-Heo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeachan-Heo&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
+<!-- GitHub Streak Stats - using more reliable demolab -->
+<img src="https://streak-stats.demolab.com/?user=Yeachan-Heo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeachan-Heo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yeachan-Heo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Stats using shields.io (always reliable) -->
+![Commits](https://img.shields.io/github/commit-activity/y/Yeachan-Heo/oh-my-claude-sisyphus?style=for-the-badge&logo=github&label=Commits%20(sisyphus)&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/Yeachan-Heo/oh-my-claude-sisyphus?style=for-the-badge&logo=github&color=purple)
 
 </div>
 
@@ -81,17 +69,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![oh-my-claude-sisyphus](https://github-readme-stats.vercel.app/api/pin/?username=Yeachan-Heo&repo=oh-my-claude-sisyphus&theme=tokyonight&hide_border=true)](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)
-[![oh-my-opencode](https://github-readme-stats.vercel.app/api/pin/?username=code-yeongyu&repo=oh-my-opencode&theme=tokyonight&hide_border=true)](https://github.com/code-yeongyu/oh-my-opencode)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -100,13 +77,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yh2424@columbia.edu)
 
 </div>
-
----
-
-## 📊 This Week's Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -126,20 +96,6 @@
 ### 💡 Random Dev Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:wakatime-->
-```text
-No activity tracked this week
-```
-<!--END_SECTION:wakatime-->
 
 </div>
 
