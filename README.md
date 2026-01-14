@@ -2,7 +2,7 @@
 
 # Hi there, I'm Yeachan Heo 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Multi-Agent+System+Architect;Open+Source+Enthusiast;The+Boulder+Never+Stops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Quant+Trader+by+Day;Multi-Agent+Architect+by+Night;The+Boulder+Never+Stops)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Yeachan-Heo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Yeachan-Heo)
 [![GitHub User's stars](https://img.shields.io/github/stars/Yeachan-Heo?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/Yeachan-Heo)
@@ -16,11 +16,12 @@
 
 <div align="center">
 
+![Quant Trading](https://img.shields.io/badge/Quant_Trading-00C853?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![IDK](https://img.shields.io/badge/IDK-666666?style=for-the-badge&logo=question&logoColor=white)
 ![Claude Does It All](https://img.shields.io/badge/Claude_Does_It_All-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
 
-*I just tell Claude what I want and it happens* ✨
+*I trade by day, mass-vibe-code with Claude by night* 📈✨
 
 </div>
 
@@ -60,10 +61,10 @@
 ## 🎯 Current Focus
 
 ```text
-🔭 Working on    Multi-Agent Orchestration Systems
-🌱 Learning      Advanced AI Agent Architectures
+💹 Day job       Quant Trading
+🔭 Side project  Multi-Agent Orchestration Systems
 💬 Ask me about  Claude Code, AI Agents, Automation
-⚡ Fun fact      The boulder never stops rolling
+⚡ Fun fact      I mass-vibe-code with Claude
 ```
 
 ---
