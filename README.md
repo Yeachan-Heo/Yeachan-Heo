@@ -26,25 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Streak Stats - using more reliable demolab -->
-<img src="https://streak-stats.demolab.com/?user=Yeachan-Heo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<!-- Stats using shields.io (always reliable) -->
-![Commits](https://img.shields.io/github/commit-activity/y/Yeachan-Heo/oh-my-claude-sisyphus?style=for-the-badge&logo=github&label=Commits%20(sisyphus)&color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/Yeachan-Heo/oh-my-claude-sisyphus?style=for-the-badge&logo=github&color=purple)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
