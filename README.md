@@ -18,10 +18,31 @@
 
 ![Quant Trading](https://img.shields.io/badge/Quant_Trading-00C853?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
 ![IDK](https://img.shields.io/badge/IDK-666666?style=for-the-badge&logo=question&logoColor=white)
 ![Claude Does It All](https://img.shields.io/badge/Claude_Does_It_All-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex Does It All](https://img.shields.io/badge/Codex_Does_It_All-0F172A?style=for-the-badge&logo=openai&logoColor=white)
 
-*I trade by day, mass-vibe-code with Claude by night* 📈✨
+*I trade by day, mass-vibe-code with Claude and Codex by night* 📈✨
+
+</div>
+
+---
+
+## 📊 AI Usage Embed
+
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/Yeachan-Heo/svg?sort=cost&compact=1)](https://tokscale.ai/u/Yeachan-Heo)
+
+<details>
+<summary><b>GitHub embed snippet</b></summary>
+
+```md
+[![Tokscale Stats](https://tokscale.ai/api/embed/Yeachan-Heo/svg?sort=cost&compact=1)](https://tokscale.ai/u/Yeachan-Heo)
+```
+
+</details>
 
 </div>
 
